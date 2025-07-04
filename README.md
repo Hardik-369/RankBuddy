@@ -25,7 +25,7 @@ RankBuddy is a comprehensive SEO optimization tool built in pure Python that hel
    ```
 3. **Run the application**:
    ```bash
-   streamlit run rankbuddy_app.py
+   streamlit run rankbuddy_app_realtime.py
    ```
 
 ## 📖 Usage
